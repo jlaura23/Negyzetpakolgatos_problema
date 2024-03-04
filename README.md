@@ -1,0 +1,1 @@
+Negyzetpakolgatos problema megoldasa
